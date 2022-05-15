@@ -18,3 +18,22 @@
 ### Status
 #### *New*
 (https://user-images.githubusercontent.com/104923463/168448645-d5447d5d-9898-4c46-80d1-2bf173695120.jpg)
+
+## 2. Mixed content in product categories
+### Priority & Severity: 
+#### *P1 - Normal*
+### Description
+#### *When the Monitors category is accessed, the user is getting mixed products on the second page.*
+### Steps to reproduce
+#### *1. Go to www.demoblaze.com*
+#### *2. Click on the “Monitors” category button*
+#### *3. Click on the “Next” button*
+#### *4. Observe the products displayed on the second page*
+### Expected result
+#### *User should get a list with monitors only.*
+### Actual result
+#### * The page displays a mixture of monitors and laptops.*
+### Status
+#### *New*
+(https://user-images.githubusercontent.com/104923463/168485834-0cb82664-5f03-462a-8d17-34c2f2a99c55.jpg)
+
