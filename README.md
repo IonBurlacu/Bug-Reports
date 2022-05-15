@@ -12,7 +12,7 @@
 #### *3. Play the video in description*
 #### *4. Observe the informations in the video*
 ### Expected result
-#### * User should obtain informations about the company and the store products.*
+#### *User should obtain informations about the company and the store products.*
 ### Actual result
 #### *The video in description is about an online course for a product called JMeter.*
 ### Status
