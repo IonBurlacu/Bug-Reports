@@ -17,7 +17,7 @@
 #### *The video in description is about an online course for a product called JMeter.*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168448645-d5447d5d-9898-4c46-80d1-2bf173695120.jpg)
+![bug 1](https://user-images.githubusercontent.com/104923463/171035158-e1bfb99d-931e-48e5-b5a8-161bb785425f.jpg)
 
 ## 2. Mixed content in product categories
 ### Priority & Severity: 
@@ -35,7 +35,7 @@
 #### *The page displays a mixture of monitors and laptops.*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168485834-0cb82664-5f03-462a-8d17-34c2f2a99c55.jpg)
+![bug 2](https://user-images.githubusercontent.com/104923463/171035216-5b58fb47-d05b-4535-a81d-c705825e52d8.jpg)
 
 ## 3. No customised “404 Error: Not found” page
 ### Priority & Severity: 
@@ -55,7 +55,7 @@
 #### *www.demoblaze.com/flvxdz*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168486167-d412210f-a873-49e1-a9a0-fdfb36059caf.jpg)
+![bug 3](https://user-images.githubusercontent.com/104923463/171035263-739e4673-5ea3-4412-b6a5-a0cd3c092204.jpg)
 
 ## 4. Broken layout on portable devices
 ### Priority & Severity: 
@@ -74,8 +74,8 @@
 #### *The page layout do not adapt to the device selected. The Login button is not fully visible and the Username and Password boxes are coming out of border.*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168486421-03c22a35-23b8-45f0-a0c4-f09c157d8e59.jpg)
-(https://user-images.githubusercontent.com/104923463/168486444-fee3ec43-73bf-413c-ad63-39c80b20bcf8.jpg)
+(ht![bug 4](https://user-images.githubusercontent.com/104923463/171035294-267b10b1-fc78-4647-9797-b75b70465432.jpg)
+![bug4](https://user-images.githubusercontent.com/104923463/171035327-437e8754-0b91-4d73-82a6-4cf8882fedc0.jpg)
 
 ## 5. Transactions are not shown
 ### Priority & Severity: 
@@ -97,7 +97,7 @@
 #### *User: Harry Potter*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168486676-f4f557fc-b556-43a3-851b-46f5264b5347.jpg)
+![bug 5](https://user-images.githubusercontent.com/104923463/171035365-d2dda484-c29d-409d-87c6-96264b589ad3.jpg)
 
 ## 6. Broken link
 ### Priority & Severity: 
@@ -114,7 +114,7 @@
 #### *The page can not be reached and an error page is displayed.*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168486864-eebb87ee-dda5-49b0-85c5-5ea089c86a93.jpg)
+![bug 10](https://user-images.githubusercontent.com/104923463/171035399-069b2330-3bcc-402b-9f22-67c971d2d886.jpg)
 
 ## 7. Text errors
 ### Priority & Severity: 
@@ -131,4 +131,5 @@
 #### *The text is spelled grammatically incorrect and the prices are in unknown currency.*
 ### Status
 #### *New*
-(https://user-images.githubusercontent.com/104923463/168487003-7d582617-2597-4f1b-93e4-2070c5a21296.jpg)
+![bug 11](https://user-images.githubusercontent.com/104923463/171035436-c72d4958-8728-4fd5-8fec-46271a30070c.jpg)
+
